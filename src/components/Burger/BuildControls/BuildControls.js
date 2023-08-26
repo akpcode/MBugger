@@ -6,7 +6,7 @@ import BuildControl from './BuildControl/BuildControl';
 //creating this constant so we can have an array to loop through it with mapping
 //we can always access other stuffs from the file
 const controls = [
-    { label: 'Salad', type: 'salad'},
+    { label: 'Salads', type: 'salad'},
     { label: 'Bacon', type: 'bacon'},
     { label: 'Cheese', type: 'cheese'},
     { label: 'Meat', type: 'meat'}
